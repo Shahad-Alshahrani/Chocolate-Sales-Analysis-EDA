@@ -1,5 +1,8 @@
 # 🍫 Chocolate Sales Analysis — Exploratory Data Analysis
 
+<img width="100%" height="100%" alt="Dashboard Choco" src="https://github.com/user-attachments/assets/ff68fad9-9318-4e6f-855e-23ec4df8cde5" />
+
+
 ## 📌 Project Overview
 
 This project presents an **Exploratory Data Analysis (EDA)** of chocolate sales data for **2022**. The analysis focuses on understanding overall sales performance, identifying top-performing products and sales representatives, comparing sales across countries, and analyzing monthly sales patterns.
