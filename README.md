@@ -175,6 +175,6 @@ These findings can support better **inventory planning, product strategy, market
 
 
 ## 🛠️ Tools Used
-* Data Source: <a href= "https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales"> Kaggle </a>.
-* Analysis:  <a href= "https://github.com/Shahad-Alshahrani/Chocolate-Sales-Analysis-EDA/blob/main/Chocolate_Sales_EDA_.ipynb"> Python </a>.
-* Visualization: Power BI
+* Data Source: <a href= "https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales"> Kaggle</a>.
+* Analysis:  <a href= "https://github.com/Shahad-Alshahrani/Chocolate-Sales-Analysis-EDA/blob/main/Chocolate_Sales_EDA_.ipynb"> Python</a>.
+* Visualization:  <a href= "https://github.com/Shahad-Alshahrani/Chocolate-Sales-Analysis-EDA/blob/main/Chocolate%20sales%20dashboard.pbix"> Power BI</a>.
