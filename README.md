@@ -175,6 +175,6 @@ These findings can support better **inventory planning, product strategy, market
 
 
 ## 🛠️ Tools Used
-* Data Source: Kaggle
+* Data Source: <a href= "https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales">Kaggle</a>.
 * Analysis: Python
 * Visualization: Power BI
